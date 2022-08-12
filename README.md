@@ -2,7 +2,7 @@
 
 ## About
 
-Created a pipeline machine learning model using Support vector classifier(SVM) and count vectorizer to predict the final sentiment of restaurant reviews using the dataset [‘restaurant review’](https://www.kale.com/d4rklucif3r/restaurant-reviews) from kaggle. Used joblib to create and save it as a model (joblib is similar to pickle) and then created a streamlit webapp for sentiment analysis using the joblib model (pipeline model).
+Created a pipeline machine learning model using Support vector classifier(SVM) and count vectorizer to predict the sentiments of reviews using the dataset [‘restaurant review’](https://www.kale.com/d4rklucif3r/restaurant-reviews) from kaggle. Used joblib to create and save it as a model (joblib is similar to pickle) and then created a streamlit webapp for sentiment analysis using the joblib model (pipeline model).
 
 ---
 ## Ouputs obtained: 
